@@ -93,5 +93,8 @@ d.setEmployee(id1, nam, gen, hosp, dep)<br>
 d.showEmployee()
 ## Sample Output
 <img width="1257" height="529" alt="image" src="https://github.com/user-attachments/assets/9e4d6031-e9ea-4278-8261-392ccd2f3f05" />
+
 ## Result
+
+
 Thus the program that uses Hierarchical Inheritance to input and display Employee and Patient details hase been executed successfully.
