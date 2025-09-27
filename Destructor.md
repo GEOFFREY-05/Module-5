@@ -28,7 +28,7 @@ class Demo:
    ef __del__(self):<br>
         print("Hello from the __del__ method.")<br>
 
-# Create and delete the object<br>
+
 obj = Demo()<br>
 del obj
 
